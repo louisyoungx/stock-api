@@ -1,0 +1,10 @@
+{
+  "optional_list": {
+    "ID": 600352,
+    "cost_price": 17.61,
+    "loss_limit": -0.05,
+    "profit_limit": 0.05,
+    "volume": 2000000,
+    "time_out": 90
+  }
+}
